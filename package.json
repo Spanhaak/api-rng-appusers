@@ -2,6 +2,10 @@
   "name": "api-rng-appusers",
   "version": "1.0.0",
   "description": "Simple API that Generates a Random number",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Spanhaak/api-rng-appusers.git"
+  },
   "main": "index.js",
   "scripts": {
     "start": "node index"
