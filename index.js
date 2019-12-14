@@ -6,6 +6,10 @@
 const express = require('express');
 const app = express();
 
+app.get('/', (req, res) => {
+    res.send("Hoi Mark!");    
+});
+
 app.get('/usercount', (req, res) => {
     const calcusers = Math.floor((Math.random() * 40) + 60);
     const convert = `${calcusers}`;
