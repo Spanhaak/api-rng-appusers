@@ -1,0 +1,15 @@
+{
+  "name": "api-rng-appusers",
+  "version": "1.0.0",
+  "description": "Simple API that Generates a Random number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marco Spanhaak",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "math": "0.0.3"
+  }
+}
