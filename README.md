@@ -17,3 +17,5 @@ One can change the port in the index.js file
 The API Endpoint values are captured in a time-series DB and diplayed by a dashboarding solution.
 
 <img src="https://github.com/Spanhaak/api-rng-appusers/blob/master/images/total.png" width="250"> <img src="https://github.com/Spanhaak/api-rng-appusers/blob/master/images/fixed.png" width="250"> <img src="https://github.com/Spanhaak/api-rng-appusers/blob/master/images/floating.png" width="250">
+
+<img src="https://github.com/Spanhaak/api-rng-appusers/blob/master/images/overview.png">
