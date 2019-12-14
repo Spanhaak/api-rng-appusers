@@ -7,7 +7,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-    res.send("Hoi Mark!");    
+    res.send("Please use the correct endpoint.");    
 });
 
 app.get('/usercount', (req, res) => {
